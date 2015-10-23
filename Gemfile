@@ -6,7 +6,7 @@ ruby "2.2.1"
 gem 'rails', '4.2.4'
 
 # use bootstrap library for style
-gem 'bootstrap-sass', '3.3.5.1'
+gem 'bootstrap-sass', '3.3.5'
 
 gem 'sprockets-rails', '2.3.3'
 
