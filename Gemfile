@@ -18,6 +18,9 @@ group :production do
 	gem 'rails_12factor'
 end
 
+# Gem Devise for authentication
+gem 'devise', '3.5.2'
+
 # Use font awesome 
 gem 'font-awesome-sass', '4.4.0'
 
